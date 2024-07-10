@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alig2004
+- 👋 Hi, I’m Alison
 <!--- 👀 I’m interested in ... --->
 - 🌱 I’m currently learning C
 <!--- 💞️ I’m looking to collaborate on ... --->
