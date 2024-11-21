@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alison
 <!--- 👀 I’m interested in ... --->
-- 🌱 I’m currently learning C, Python and SQL
+- 🌱 I’m currently learning C, Python, PHP and SQL
 <!--- 💞️ I’m looking to collaborate on ... --->
-<!--- 📫 How to reach me ... --->
+- 📫 How to reach me: email at agleeson987@gmail.com or linkedin at https://www.linkedin.com/in/alison-gleeson-25402a2a1/
 - 😄 Pronouns: she/her
 <!--- ⚡ Fun fact: ... --->
 
